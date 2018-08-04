@@ -86,7 +86,7 @@ header{
     background-color: #ffffff;
     height: 75px;
     width: 920px;
-    margin: 10px 20px;
+    margin: 20px 20px;
     border-bottom: 2px solid #dddddd;
     position: relative;
     float: left;
@@ -132,7 +132,7 @@ footer{
 
 .footerer{
     position: absolute;
-    bottom: 1px;
+    bottom: 10px;
     left: 50%;
 }
 
@@ -161,3 +161,74 @@ footer{
     font-family: Georgia, 'Times New Roman', Times, serif;
     
 }
+
+.form{  
+    width: 900px;
+    height: 600px;
+    display: inline;
+}
+/* 
+.contact-name, .contact-email, .contact-message{
+    color: #777777;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    left: 20px;
+} */
+
+
+.contact-names{
+    /* margin: 20px auto;  */
+    /* padding: 10px; */ 
+    margin-left: 20px;
+ 
+}
+
+.contact-emails{ 
+    margin-left: 20px;
+}
+
+.one{
+    height: 40px;
+    width: 915px;
+    margin-bottom: 15px;
+    
+}
+
+.contact-message{
+    height: 150px;
+    width: 640px;  
+    margin-left: 20px;
+    
+}
+
+.two{
+    height: 100px;
+    width: 915px; 
+}
+.submit{
+    
+}
+
+#mess{
+    /* position: relative;
+    left: 20px;
+    top: 20px; */
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 40px;
+    width: 100px;
+    margin-left: 20px;
+    background-color: #4aaaa5;
+}
+
+.titles{
+    color: #777777;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+    
+} 
+
+
