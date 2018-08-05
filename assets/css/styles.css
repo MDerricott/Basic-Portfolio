@@ -141,9 +141,10 @@ footer{
     width: 320px;
     height: 240px;
     background-color: #777777;
-    margin: 10px 10px;
+    margin: 10px 20px;
     display: inline-block;
     border: 1px solid #dddddd; 
+    
 }
 
 
@@ -160,6 +161,7 @@ footer{
     line-height: 70px;
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+   
     
 }
 
@@ -168,18 +170,10 @@ footer{
     height: 600px;
     display: inline;
 }
-/* 
-.contact-name, .contact-email, .contact-message{
-    color: #777777;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    position: relative;
-    left: 20px;
-} */
 
 
 .contact-names{
-    /* margin: 20px auto;  */
-    /* padding: 10px; */ 
+    
     margin-left: 20px;
  
 }
@@ -211,9 +205,7 @@ footer{
 }
 
 #mess{
-    /* position: relative;
-    left: 20px;
-    top: 20px; */
+   
     text-align: center;
     color: white;
     font-size: 20px;
